@@ -1,0 +1,10 @@
+{
+  "name": "FrontEndAppetee",
+  "displayName": "FrontEndAppetee",
+  "splash": {
+    "image": "./assets/logo_couleurs_avec_marge.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  }
+
+}
